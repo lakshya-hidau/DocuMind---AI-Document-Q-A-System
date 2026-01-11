@@ -2,6 +2,8 @@
 
 DocuMind is a high-performance, real-time RAG (Retrieval-Augmented Generation) Q&A system designed to process documents and provides intelligent answers using state-of-the-art LLMs. Featuring a premium, modern UI with interactive elements and high-speed streaming responses.
 
+**🔗 Live Demo: [https://docu-mind-ai-document-q-a-system.vercel.app/](https://docu-mind-ai-document-q-a-system.vercel.app/)**
+
 ![DocuMind Screenshot](DocuMind.png)
 
 ## ✨ Features
@@ -47,7 +49,7 @@ DocuMind is a high-performance, real-time RAG (Retrieval-Augmented Generation) Q
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/DocuMind.git
+   git clone https://github.com/lakshya-hidau/DocuMind---AI-Document-Q-A-System.git
    cd DocuMind
    ```
 
