@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="docuGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Document outline -->
+  <path d="M 60 30 L 120 30 L 150 60 L 150 170 L 60 170 Z" 
+        fill="none" 
+        stroke="url(#docuGrad)" 
+        stroke-width="6" 
+        stroke-linejoin="round"/>
+  
+  <!-- Folded corner -->
+  <path d="M 120 30 L 120 60 L 150 60" 
+        fill="none" 
+        stroke="url(#docuGrad)" 
+        stroke-width="6" 
+        stroke-linejoin="round"/>
+  
+  <!-- Neural network/brain pattern -->
+  <!-- Center node -->
+  <circle cx="105" cy="100" r="8" fill="url(#docuGrad)"/>
+  
+  <!-- Top nodes -->
+  <circle cx="85" cy="75" r="6" fill="url(#docuGrad)"/>
+  <circle cx="125" cy="75" r="6" fill="url(#docuGrad)"/>
+  
+  <!-- Middle nodes -->
+  <circle cx="75" cy="100" r="6" fill="url(#docuGrad)"/>
+  <circle cx="135" cy="100" r="6" fill="url(#docuGrad)"/>
+  
+  <!-- Bottom nodes -->
+  <circle cx="85" cy="125" r="6" fill="url(#docuGrad)"/>
+  <circle cx="125" cy="125" r="6" fill="url(#docuGrad)"/>
+  
+  <!-- Connections -->
+  <line x1="105" y1="100" x2="85" y2="75" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  <line x1="105" y1="100" x2="125" y2="75" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  <line x1="105" y1="100" x2="75" y2="100" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  <line x1="105" y1="100" x2="135" y2="100" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  <line x1="105" y1="100" x2="85" y2="125" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  <line x1="105" y1="100" x2="125" y2="125" stroke="url(#docuGrad)" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Additional connections for network effect -->
+  <line x1="85" y1="75" x2="75" y2="100" stroke="url(#docuGrad)" stroke-width="1.5" opacity="0.4"/>
+  <line x1="125" y1="75" x2="135" y2="100" stroke="url(#docuGrad)" stroke-width="1.5" opacity="0.4"/>
+  <line x1="75" y1="100" x2="85" y2="125" stroke="url(#docuGrad)" stroke-width="1.5" opacity="0.4"/>
+  <line x1="135" y1="100" x2="125" y2="125" stroke="url(#docuGrad)" stroke-width="1.5" opacity="0.4"/>
+</svg>

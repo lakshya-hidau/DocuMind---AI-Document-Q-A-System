@@ -1,0 +1,16 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.9
+numpy>=1.24,<2.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-huggingface>=0.0.6
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+PyPDF2>=3.0.1
+python-docx>=1.1.0
+unstructured>=0.12.5
+nltk>=3.8.1
+huggingface-hub>=0.20.0
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.3

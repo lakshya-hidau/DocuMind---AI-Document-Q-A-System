@@ -1,0 +1,23 @@
+# Core
+numpy>=1.24,<2.0
+
+# Streamlit
+streamlit>=1.30
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-huggingface>=0.0.6
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# Document processing
+PyPDF2>=3.0.1
+python-docx>=1.1.0
+unstructured>=0.12.5
+nltk>=3.8.1
+
+# Hugging Face
+huggingface-hub>=0.20.0

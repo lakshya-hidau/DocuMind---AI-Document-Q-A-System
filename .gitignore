@@ -1,0 +1,31 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+.env
+.conda/
+.RagQASystem/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.vscode/
+.idea/
+*.log
+demo/.conda/
+demo/.RagQASystem/
+
