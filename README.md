@@ -2,7 +2,7 @@
 
 DocuMind is a high-performance, real-time RAG (Retrieval-Augmented Generation) Q&A system designed to process documents and provides intelligent answers using state-of-the-art LLMs. Featuring a premium, modern UI with interactive elements and high-speed streaming responses.
 
-![DocuMind Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/hero.png) *(Replace with actual screenshot)*
+![DocuMind Screenshot](DocuMind.png)
 
 ## ✨ Features
 
