@@ -15,6 +15,11 @@ DocuMind is a high-performance, real-time RAG (Retrieval-Augmented Generation) Q
   - Responsive design with smooth animations.
 - **Robust Security**: API Token based authentication for LLM endpoints.
 
+
+## ⛓️ DocuMind Pipeline Explanation (RAG Pipeline)
+
+![DocuMind Pipeline](DocuMind_Pipeline.png)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
